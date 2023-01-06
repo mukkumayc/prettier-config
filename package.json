@@ -2,7 +2,7 @@
 	"name": "@mukkumayc/prettier-config",
 	"version": "1.0.0",
 	"private": true,
-	"main": ".prettierrc.js",
+	"main": "prettier.config.js",
 	"dependencies": {
 		"@trivago/prettier-plugin-sort-imports": "^4.0.0"
 	},
